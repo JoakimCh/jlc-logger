@@ -1,0 +1,13 @@
+{
+  "name": "jlc-logger",
+  "version": "1.0.1",
+  "author": "Joakim L. Christiansen (https://joakimch.github.io)",
+  "license": "MIT",
+  "type": "module",
+  "main": "jlc-logger.js",
+  "repository": "github:JoakimCh/jlc-logger",
+  "funding": "https://joakimch.github.io/funding.html",
+  "description": "When you want logging to be something sexy.",
+  "files": ["jlc-logger.js"],
+  "engines": {"node": ">=14.3"}
+}
